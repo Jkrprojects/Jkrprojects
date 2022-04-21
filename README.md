@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Pacman2](https://user-images.githubusercontent.com/104057685/164351799-766071d8-1591-499a-8fef-ab85ca378a62.gif)
+
 <!--
 **aranajk/aranajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pacman](https://user-images.githubusercontent.com/104057685/164351790-22d32432-7312-4a7a-a8ff-232858ddd71f.gif)
-![Pacman2](https://user-images.githubusercontent.com/104057685/164351799-766071d8-1591-499a-8fef-ab85ca378a62.gif)
