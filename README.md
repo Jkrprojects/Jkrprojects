@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Pacman2](https://user-images.githubusercontent.com/104057685/164351799-766071d8-1591-499a-8fef-ab85ca378a62.gif)
 
 <!--
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
