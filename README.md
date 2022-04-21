@@ -1,5 +1,4 @@
 ### Hi there 👋
-![T7n](https://user-images.githubusercontent.com/104057685/164349835-7da0f2e5-0fdf-4fb3-929e-8777bbd5f2fc.gif)
 <!--
 **aranajk/aranajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
